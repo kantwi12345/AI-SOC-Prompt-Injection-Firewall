@@ -1,0 +1,13 @@
+streamlit>=1.60
+numpy
+pandas
+scikit-learn
+sentence-transformers
+streamlit>=1.60
+numpy
+pandas
+scikit-learn
+sentence-transformers
+plotly
+pypdf
+openai-whisper
